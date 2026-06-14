@@ -1,0 +1,9 @@
+torch>=2.0
+torchvision
+segmentation-models-pytorch
+albumentations
+numpy
+pillow
+matplotlib
+tqdm
+torchinfo
